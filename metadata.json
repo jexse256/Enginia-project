@@ -1,0 +1,6 @@
+{
+  "name": "Enginia Electronics",
+  "description": "Modern mobile-style electronics & electrical accessories e-commerce app with AI-powered Enginia Assistant, Admin Dashboard, and delivery tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
